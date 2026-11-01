@@ -62,6 +62,6 @@ for(int i = 0; i<numbers.length; i++) {
 }
 	System.out.println("The largest number is " + largest);	
 	// 12. print only the last element in the array
-System.out.println(numbers[49]);
+System.out.println("The last element in the array is " + numbers[49]);
 }
 }
